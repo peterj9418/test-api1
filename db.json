@@ -1,0 +1,82 @@
+{
+    "login":{
+           "token": "180108"
+           
+     },
+   
+   "usuario": [
+      { "name": "exnovo", "chiave":"scl"}
+   ],
+
+   "edifici":[
+   {"id": 1, "name": "Istituto di Istruzione Superiore"},
+   {"id":2, "name": "Edificio 1"},
+   {"id":3, "name": "Edificio 2"},
+   {"id":4, "name": "Edificio 3"},
+   {"id":5, "name": "Edificio 4"},
+   {"id":6, "name": "Edificio 5"}
+
+   ],
+
+   "ambientiPS":[
+      {"id":1, "name": "Corridoio" , "temp": "21.5°C", "umidità": "45.5%"},
+      {"id":2, "name": "Ufficio Segreteria", "temp": "25.5°C", "umidità": "40.5%"},
+      {"id":3, "name": "Sala Consiglio", "temp": "23.5°C", "umidità": "43.5%"},
+      {"id":4, "name": "Sala Comune", "temp": "28.5°C", "umidità": "38.5%"},
+      {"id":5, "name": "Ufficio Preside", "temp": "21.5°C", "umidità": "45.5%"},
+      {"id":6, "name": "Ufficio Direttore", "temp": "22.5°C", "umidità": "42.5%"},
+      {"id":7, "name": "Ufficio Segretario Economo", "temp": "21.5°C", "umidità": "45.5%"}
+   ],
+
+   "ambientiPS1":[
+      {"id":1, "name": "Corridoio" },
+      {"id":2, "name": "Ufficio Segreteria"},
+      {"id":3, "name": "Sala Consiglio"},
+      {"id":4, "name": "Sala Comune"},
+      {"id":5, "name": "Ufficio Preside"},
+      {"id":6, "name": "Ufficio Direttore"},
+      {"id":7, "name": "Ufficio Segretario Economo"}
+      ],
+   "ufficiRisc":[
+      {"id":1, "name": "Ufficio Segreteria"},
+      {"id":2, "name": "Sala Consiglio"},
+      {"id":3, "name": "Sala Comune"},
+      {"id":4, "name": "Ufficio Preside"},
+      {"id":5, "name": "Ufficio Direttore"},
+      {"id":6, "name": "Ufficio Segretario Economo"}
+   ],
+   "auleRisc":[
+      {"id":1, "name": "Aula 0A"},
+      {"id":2, "name": "Aula 0B"},
+      {"id":3, "name": "Aula 0C"},
+      {"id":4, "name": "Aula 1D"},
+      {"id":5, "name": "Aula 1E"},
+      {"id":6, "name": "Aula 1F"}
+      ],
+
+   "ambientiPT":[
+   {"id":1, "name": "Aula 0A"},
+   {"id":2, "name": "Aula 0B"},
+   {"id":3, "name": "Aula 0C"},
+   {"id":4, "name": "Bagni / Servizi"}
+   ],
+   "ambientiPP":[
+      {"id":1, "name": "Aula 1D"},
+      {"id":2, "name": "Aula 1E"},
+      {"id":3, "name": "Aula 1F"},
+      {"id":4, "name": "Sala Degli Archi 1"},
+      {"id":5, "name": "Sala Degli Archi 2"},
+      {"id":6, "name": "Sala Degli Archi 2"}
+      ],
+   "varibili":[
+      {"id":1, "name": "Temperatura", "valore": "21.5°c"},
+      {"id":1, "name": "Umidità", "valore": "21.5°c"}
+      
+   ],
+   "impostazioni":[
+      {"id":1, "name": "Impianto riscaldamento centrale "},
+      {"id":2, "name": "Programmazione impianto riscaldamento uffici"},
+      {"id":3, "name": "Programmazione impianto riscaldamento aule"}
+      
+   ]
+}
